@@ -1,7 +1,7 @@
 package com.rays.javaoop.inheritance;
 
 public class Bank {
-	
+	//this is inheritance program
 	private double intrestRate;
 	private String name;
 	public double getIntrestRate() {
